@@ -5,4 +5,4 @@ define('PSM_DB_PASS', 'KEInopyQ2LDyp2yG');
 define('PSM_DB_NAME', 'phpservermon');
 define('PSM_DB_HOST', '10.131.0.158');
 define('PSM_DB_PORT', '3306');
-define('PSM_BASE_URL', 'http://http://php-servermon.os.apps.northwestern.edu');
+define('PSM_BASE_URL', 'http://php-servermon.os.apps.northwestern.edu');
